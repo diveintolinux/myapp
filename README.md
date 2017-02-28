@@ -1,3 +1,3 @@
 # myapp
 
-Welcome to myapp
+Welcome to myapp!
